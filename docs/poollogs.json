@@ -1,0 +1,41 @@
+{
+    "voters": [],
+    "kapuperday": 338.4,
+    "lastforgedupdate": 115400000000,
+    "lastupdate": 1509292802,
+    "accounts": {
+        "KQFab45CWcDRwGDmZZ75sQufAiGUFs5fsG": {
+            "kapuperday": 120.83187317711145,
+            "share": 35.70681831474925,
+            "received": 235.18768191500894,
+            "balance": 150204.0876819,
+            "pending": 70.27101844342653
+        },
+        "KPuU2xZy8vfCyPX7rorf2DTSucQofbsiF1": {
+            "kapuperday": 120.85685030943027,
+            "share": 35.714199264016045,
+            "received": 235.23633880810831,
+            "balance": 150235.1363388,
+            "pending": 70.28554415158355
+        },
+        "KBQkfknkkPPUMfCG9s1YHNAk8TpH6vg2sT": {
+            "kapuperday": 96.71127651345827,
+            "share": 28.57898242123472,
+            "received": 220.17597927688286,
+            "balance": 120220.17597926,
+            "pending": 56.24343740498994
+        }
+    },
+    "weight": 420659.39999996,
+    "lastpayout": 1509242402,
+    "lastforged": 90800000000,
+    "skip": [],
+    "standby": {},
+    "withdraw": {
+        "KG6CV1PFb5uZeQZw5vwCPRTygTPuStjdQq": {
+            "share": 20.0,
+            "received": 67.10000000000002,
+            "pending": 49.20000000000001
+        }
+    }
+}
